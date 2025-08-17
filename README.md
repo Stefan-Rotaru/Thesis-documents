@@ -25,9 +25,9 @@ Usage
 
 Configuration
 -------------
-# In "PID_Arduino.ino" (line 175) tweak "Kp", "Ki", "Kd" to tune your controller.
-# On line 160 of "PID_Arduino.ino" you can change the “setpoint” for your target roll angle.
-# In "script.py" make sure the serial "port = 'COM3'" matches your board.
+ In "PID_Arduino.ino" (line 175) tweak "Kp", "Ki", "Kd" to tune your controller.
+ On line 160 of "PID_Arduino.ino" you can change the “setpoint” for your target roll angle.
+ In "script.py" make sure the serial "port = 'COM3'" matches your board.
 
 Encoder error
 -------------
