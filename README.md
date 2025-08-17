@@ -38,3 +38,7 @@ Spikes might occur due to encoder's measurement error
 =======================
 Contains the solidworks files. Assem1 is the whole assembly of the device
 
+#Thesis video
+=============
+Contains the videos of the experimental tests. They are also available in the issues tab.
+
