@@ -1,0 +1,3 @@
+3DX_Same_Sky_Supplier: Same Sky
+3DX_Same_Sky_Description: AMT13 Axial, Quadrature Line Driver, 48 PPR, 15 mm Bore
+3DX_Same_Sky_Part Number: AMT133Q-0048-1500
